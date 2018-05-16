@@ -1,0 +1,14 @@
+body {
+	color: blue;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#my-name {
+	background-color: yellow;
+}
+
+.cool-thing {
+	color: pink;
+	font-size: 2rem;
+}
